@@ -1,8 +1,8 @@
-# [Curso de introducción a la estadística descriptiva con R Studio y Python](https://www.udemy.com/estadistica-descriptiva/?couponCode=FROM_BOKDOWN_RSTUDIO)
+# [Curso de introducci�n a la estad�stica descriptiva con R Studio y Python](https://www.udemy.com/estadistica-descriptiva/?couponCode=FROM_BOKDOWN_RSTUDIO)
 
 *Con Juan Gabriel Gomila y Mar�a Santos*  .  dos genios! 
 
-Conoce toda la estadística descriptiva de la mano de Juan Gabriel Gomila y asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primera de carrera a matemáticos, ingenieros o informáticos como por ejemplo:
+Conoce toda la estad�stica descriptiva de la mano de Juan Gabriel Gomila y asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primera de carrera a matemáticos, ingenieros o informáticos como por ejemplo:
 
 * Logística e instalación de R y RStudio y de Anaconda Navigator para Python
 * Cómo usar R y Python como si fuese una calculadora científica (incluyendo un repaso de funciones, trigonometría y combinatoria)
@@ -19,7 +19,7 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 3. Estructuras de datos
 4. Introducción a la representación gráfica
 5. Data frames
-6. Estadística descriptiva con datos cualitativos
+6. Estad�stica descriptiva con datos cualitativos
 7. Estadística descriptiva con datos ordinales
 8. Estadística descriptiva con datos cuantitativos
 9. Estadística descriptiva con datos cualitativos agrupados
