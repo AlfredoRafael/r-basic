@@ -15,9 +15,9 @@ Conoce toda la estad�stica descriptiva de la mano de Juan Gabriel Gomila y asien
 Una vez termines el curso podrás seguir con los mejores cursos de análisis de datos publicados por Juan Gabriel Gomila como los cursos de Machine Learning con Python o RStudio o el Curso de Data Science con Tidyverse y RStudio. Todo el material del curso está enfocado en resolver los problemas de falta de base que presentan los estudiantes de esos cursos avanzados y poderlo hacer en un curso a parte te permitirá nivelar tus conocimientos y tomar los otros cursos con garantías de éxito.
 
 1. Trabajando con R y con Python
-2. Documentación con R Markdown
+2. Documentaci�n con R Markdown
 3. Estructuras de datos
-4. Introducción a la representación gráfica
+4. Introducci�n a la representaci�n gr�fica
 5. Data frames
 6. Estad�stica descriptiva con datos cualitativos
 7. Estad�stica descriptiva con datos ordinales
